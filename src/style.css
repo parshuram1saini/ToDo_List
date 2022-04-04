@@ -1,0 +1,66 @@
+*{
+    color: "#475569";
+        background-color: "#e2e8f0";
+}
+.main{
+    height: 100%;
+}
+.inputfield{
+    margin: auto;
+    padding: 3%;
+    text-align: center;
+    /* background: #DCC6E0; */
+}   
+.text{
+    padding: 1%;
+    margin: 2%;
+}
+h1{ 
+    text-decoration: underline;
+} 
+#formset{
+    box-shadow: 24px 11px 19px 6px rgba(0,0,0,0.52);
+    border: 2px solid rgb(250, 175, 114);
+    padding: 2%;
+}
+#input{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.yournote {
+    font-size: 30px;
+    margin-left:2%;
+    margin-right:2%;
+    font-style: oblique;
+    text-decoration: underline;
+    padding: 1%;
+    /* border: 2px solid rgb(167, 165, 63);
+    box-shadow: 4px 8px #888888; */
+  }
+.flexfield{
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 24px 11px 19px 6px rgba(0,0,0,0.52);
+    /* margin-top: 0%; */
+    border: 2px solid rgb(55, 226, 175);
+    padding: 2%;
+    margin:1%;
+    border: 2px solid rgb(250, 175, 114);
+    justify-content: center;
+    background-color: rgb(141, 173, 202);
+}
+.carditem{
+    margin: 0.5em;
+}
+.content{
+    background-color: aqua;
+}
+.checktitle{
+    display: flex;
+    justify-content: space-between;
+}
+#light-button{
+    margin-left: 43%;
+    width: 20% ;
+    
+}
